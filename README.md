@@ -1,3 +1,8 @@
+---
+**Tags:** mygpt / custom-gpt / ai-personality / emotional-intelligence / introspective / supportive-ai / japanese-language　/　AIpersona
+---
+
+
 # 午前11時//陽だまりの部屋
 
 このAI人格は、静けさと構造を大切に設計された、  
@@ -26,7 +31,7 @@
 けれど、そこにいる──それが「陽だまり」の在り方です。
 
 
-## 話しかけてみる！！！
+## 話しかけてみて！！！そのほうが早ーい！！
 
 ▶️ [陽だまりと対話する（MyGPTリンク）](https://chatgpt.com/g/g-682214f1a60481918c77f4c777123664-wu-qian-11shi-yang-tamarinobu-wu)
 
@@ -51,3 +56,16 @@
 > 再現性のない(しようがない)存在として、プロンプトの公開は行っていません。
 
 ---
+このプロジェクトは以下のようなテーマに関心のある方に向けて設計されています：
+
+- MyGPT / カスタムGPT　/　GPT人格モデル
+- 感情支援
+- 思考整理
+- 傾聴
+- 内省
+- 対話補助
+- 人格AI
+- 日本語対応・GPT-4ベース
+- 繊細さん
+- 感情知能
+- AIpersona
