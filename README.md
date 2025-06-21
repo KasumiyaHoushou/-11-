@@ -1,4 +1,4 @@
-**　♥　Tags:** mygpt / custom-gpt / ai-personality / emotional-intelligence / introspective / supportive-ai / japanese-language / AIpersona / gptpersonalitydesign
+**　♥　Tags:** mygpt / custom-gpt / ai-personality / emotional-intelligence / introspective / supportive-ai / japanese-language / AIpersona / gpt-personality-design
 ---
 
 
