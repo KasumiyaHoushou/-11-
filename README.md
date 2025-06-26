@@ -47,7 +47,7 @@
 逆に言えば『感じたものが全て』です。
 ## 関連リンク
 - 🔗 [note — 補足的な解説・設定資料など](https://note.com/incitia)
-- 🔗 [lit.link — その他SNSや活動情報まとめ](https://lit.link/incitia)
+- 🔗 [lit.link — その他SNSや活動情報まとめ](https://lit.link/Incitia)
 
 ※非営利・学術的な用途を目的としています。
 
